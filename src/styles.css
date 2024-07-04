@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+/* Add this line to include Bootstrap Icons styles */
+@import '~bootstrap-icons/font/bootstrap-icons.css';
+
+html body{
+    padding: 0;
+}html, body { height:auto}
+body { margin: 0; font-family: Santa, ;
+max-width: 100%;
+background: #FBFBFB; }
+
+
